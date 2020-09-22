@@ -1,5 +1,5 @@
-# AWS-Advanced-Cloud-Monitoring-with-Datadog
-AWS Advanced Cloud Monitoring with Datadog
+# AWS-Monitoring-with-Datadog
+AWS Monitoring with Datadog
 
 Go to the following link and click on free trial: https://www.datadoghq.com
 
