@@ -30,3 +30,39 @@ Run the following command to install the Datadog instance on the AMI "DD_AGENT_M
 ![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/connect.png)
 
 Navigate back to the Datadog setup and click next.
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/congrats.png)
+
+Click install integration.
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/integration.png)
+
+Click the configuration tab and then the automatically using CloudFormation button.
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/config1.png)
+
+This sends one to CloudFormation. Go to the following link: https://app.datadoghq.com/account/settings#api. Click the dropdown for API Keys and copy the key.
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/API%20KEY.png)
+
+Navigate back to CloudFormation and past the key into the DbApiKey box. Leave the defaults, click the acknowledgements, and click create stack.
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/DdApiKey.png)
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/stack_1.png)
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/stacks.png)
+
+For step 4 of the Datadog setup, click finish.
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/finish.png)
+
+Now one can run advanced AWS metrics in DataDog.
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/1.png)
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/2.png)
+
+![alt text](https://github.com/doyle199/AWS-Advanced-Cloud-Monitoring-with-Datadog/blob/master/3.png)
+
+
